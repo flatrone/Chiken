@@ -1,0 +1,95 @@
+img{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: 'Caveat', cursive;
+  font-size: 4rem;
+  padding-bottom: 7%;
+}
+
+h2, h3, h4{
+  font-family: 'Merriweather', serif;
+  padding: 10% 0;
+}
+
+.padding_{
+  padding: 5% 10%;
+}
+
+
+/* header
+-------------------- */
+
+.header{
+  background-color: #fff76a;
+}
+
+.navbar {
+
+  background-color: #fff76a;
+}
+
+.navbar-brand{
+  font-family: 'Caveat', cursive;
+  font-size: 2rem;
+}
+
+.about.padding_{
+  padding: 5% 10%;
+}
+
+
+/* About
+----------------*/
+
+.about{
+  padding: 5% 0;
+  background-color: #ffce89;
+}
+
+.fa {
+  font-size: 4rem
+}
+
+i.padding_{
+  padding: 10% 0;
+}
+
+
+/* footer
+--------------------- */
+
+.footer{
+  background-color:#adce74;
+  padding: 3% 6%;
+ }
+
+ .footer_title{
+   padding: 5%;
+   font-size: 1.5rem;
+ }
+
+ .footer_icon{
+   font-size: 1.5rem;
+   padding-left: 5%;
+ }
+
+
+
+ .contact_link{
+   color: black;
+ }
+
+.copyright{
+  padding: 2%;
+  background-color: #333;
+  color: #fff;
+}
